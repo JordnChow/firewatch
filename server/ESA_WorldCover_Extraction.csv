@@ -1,0 +1,2 @@
+system:index,LandCover_Label,Map,Mean_confidence,Mean_estimated_fire_brightness,Precipitation,RelativeHumidity,SoilWaterContent,SolarRadiation,Temperature,WindSpeed,date,frp,Nearby_Hotspots_Count
+00000000000000003038_0,Cropland,40,67,308.6,0.0,71,0.258,8.3,9.9,14.8,2011-05-27,16.8,0
